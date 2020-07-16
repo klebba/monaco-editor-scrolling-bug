@@ -1,0 +1,9 @@
+section {
+  margin: 80px;
+}
+
+iframe,
+monaco-editor {
+  width: 640px;
+  height: 400px;
+}
